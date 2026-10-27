@@ -1,0 +1,32 @@
+[
+  {
+    "option": 1,
+    "name": "Invitation classique",
+    "png": "option-01.png",
+    "jpg": "option-01.jpg"
+  },
+  {
+    "option": 2,
+    "name": "Le mystère Roger",
+    "png": "option-02.png",
+    "jpg": "option-02.jpg"
+  },
+  {
+    "option": 3,
+    "name": "Le rendez-vous café",
+    "png": "option-03.png",
+    "jpg": "option-03.jpg"
+  },
+  {
+    "option": 4,
+    "name": "Éditorial architectural",
+    "png": "option-04.png",
+    "jpg": "option-04.jpg"
+  },
+  {
+    "option": 5,
+    "name": "L’affiche signature",
+    "png": "option-05.png",
+    "jpg": "option-05.jpg"
+  }
+]
